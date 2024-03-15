@@ -11,6 +11,6 @@ package ucr.ac.cr.programacion.ii;
 public class ProgramacionII {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola Mundo!");
     }
 }
